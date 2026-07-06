@@ -61,3 +61,12 @@ while (learning)
 ---
 
 > *"Turning ideas into firmware, one line of C at a time."*
+> ---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+GitHub!;Embedded+Systems+%7C+Firmware+Development;Always+Learning+Something+New...;Happy+Coding!+🚀" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sankethts&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+</p>
